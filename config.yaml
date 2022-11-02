@@ -78,19 +78,17 @@ params:
     image: "/img/logo_e.png"
     button:
       enable: true
-      name: "Resume"
-      url: "https://drive.google.com/file/d/10v_JopypFMf9697MXR_sovZXYGEjhcd4/view?usp=sharing"
+      name: "Nous rejoindre"
+      url: "https://discord.gg/EGZM6fE"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/RaKk0o
-        - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/clémence-faligot/
+          url: https://github.com/Aphorya
 
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "A propos"
     image: "/img/logo_e.png"
     content: |-
       I am a student engineer with a passion for networks in general. I am currently studying computer science, and I am very interested in the SRE profession. I am passionate about art and music, I have practiced a few years in conservatory. I also love to travel and discover new cultures and landscapes.
