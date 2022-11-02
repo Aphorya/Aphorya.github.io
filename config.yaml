@@ -75,7 +75,7 @@ params:
     title: "Aphorya !"
     subtitle: "Aphorya est une communauté discord de joueurs Français."
     content: "Nous nous concentrons souvent sur Valorant, Fortnite, Among Us, Grand Theft Auto V, Minecraft, Overwatch 2, Sea of Thieves, League of Legends. Mais nous aimons varier régulièrement."
-    image: "/img/Aphorya.png"
+    image: "/img/logo_e.png"
     button:
       enable: true
       name: "Resume"
@@ -91,7 +91,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/img/Aphorya.png"
+    image: "/img/logo_e.png"
     content: |-
       I am a student engineer with a passion for networks in general. I am currently studying computer science, and I am very interested in the SRE profession. I am passionate about art and music, I have practiced a few years in conservatory. I also love to travel and discover new cultures and landscapes.
     skills:
