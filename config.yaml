@@ -296,9 +296,10 @@ params:
   #Contact
   contact:
     enable: true
+    title: "Contact"
     content: Si vous souhaitez me contacter pour avoir plus d'informations à propos du projet, n'hésitez pas.
     email: contact@aphorya.fr
-    btnName: Mail me
+    btnName: Mail
 
   footer:
     # recentPosts: false
