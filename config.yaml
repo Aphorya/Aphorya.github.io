@@ -25,7 +25,7 @@ params:
   title: "Aphorya"
   description: This blog gathers the different projects I realized during my schooling but also as personnal projetcs.
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/img/logo.png"
+  favicon: "/img/Aphorya.png"
 
   theme:
     disableThemeToggle: false
@@ -75,7 +75,7 @@ params:
     title: "Aphorya !"
     subtitle: "Aphorya est une communauté discord de joueurs Français."
     content: "Nous nous concentrons souvent sur Valorant, Fortnite, Among Us, Grand Theft Auto V, Minecraft, Overwatch 2, Sea of Thieves, League of Legends. Mais nous aimons varier régulièrement."
-    image: "/img/logo.png"
+    image: "/img/Aphorya.png"
     button:
       enable: true
       name: "Resume"
@@ -91,7 +91,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/img/logo.png"
+    image: "/img/Aphorya.png"
     content: |-
       I am a student engineer with a passion for networks in general. I am currently studying computer science, and I am very interested in the SRE profession. I am passionate about art and music, I have practiced a few years in conservatory. I also love to travel and discover new cultures and landscapes.
     skills:
