@@ -13,8 +13,8 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "this is my description"
-  cover = "images/user.jpg"
+  description = "Rejoignez-nous !"
+  cover = "images/bannière.png"
   author = "RaKk0o"
   authorlocation = ""
   authorwebsite = "https://rakk0o.aphorya.fr/"
