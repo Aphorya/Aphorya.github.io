@@ -1,6 +1,6 @@
-baseURL: "https://rakk0o.aphorya.fr"
-languageCode: "en-us"
-title: "Clémence FALIGOT"
+baseURL: "https://aphorya.github.io"
+languageCode: "fr-fr"
+title: "APHORYA"
 theme: hugo-profile
 
 Paginate: 3
@@ -22,7 +22,7 @@ Menus:
 params:
   socialShare: false
 
-  title: "Clémence Faligot"
+  title: "Aphorya"
   description: This blog gathers the different projects I realized during my schooling but also as personnal projetcs.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/img/logo.png"
@@ -71,10 +71,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Clémence."
-    subtitle: "Engineering student in computer science"
-    content: "Currently in engineering school at CESI. I have always been curious and wanted to learn new skills and create things. I am looking for a rewarding experience. I like to take on challenges and give the best of myself. I always work with rigor and respect, while remaining attentive"
+    intro: "Bonjour, bienvenue sur"
+    title: "Aphorya !"
+    subtitle: "Aphorya est une communauté discord de joueurs Français."
+    content: "Nous nous concentrons souvent sur Valorant, Fortnite, Among Us, Grand Theft Auto V, Minecraft, Overwatch 2, Sea of Thieves, League of Legends. Mais nous aimons varier régulièrement."
     image: "/img/logo.png"
     button:
       enable: true
