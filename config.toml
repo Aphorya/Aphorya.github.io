@@ -19,7 +19,7 @@ canonifyurls = true
   authorlocation = ""
   authorwebsite = "https://rakk0o.aphorya.fr/"
   bio= "my bio"
-  logo = "images/user.png"
+  logo = "images/Logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
