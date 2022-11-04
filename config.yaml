@@ -108,19 +108,6 @@ params:
         - "Krunker"
         - "Gartic Phone"
         - "Tom Clancy's Rainbow Six: Siege"
-
-  about:
-  enable: true
-  title: "Aphocraft"
-  image: "/img/Aphocraft.png"
-  content: |-
-    Création d'un serveur minecraft en cours..
-  skills:
-    enable: true
-    title: "Quelques fonctionnalités qui seront présentes :"
-    items:
-      - "Survie"
-      - "RP"
   
   # Education
   education:
@@ -132,7 +119,7 @@ params:
         school:
           name: "APHORYA"
           url: ""
-        date: "In progress"
+        date: "En cours"
         content: |-
           Le but premeir de ce projet est de rassembler les joueurs. 
           Cela permettrai de rencontrer des gens, mais également de trouver des partenaires et d'éviter le matchmaking toxic de certains jeux.
@@ -140,13 +127,11 @@ params:
         school:
           name: "APHOCRAFT"
           url: ""
-        date: "In progress"
+        date: "En cours"
         content: |-
           Ce serveur minecraft serait exclusivement disponible pour les joueurs présents sur le serveur Aphorya dans un premier temps, avant d'être ouvert à tous le monde. Au programme : Survie, Donjons, Mini-jeux, et bien d'autres choses.
 
-  
-
-  
+    
   #Contact
   contact:
     enable: true
